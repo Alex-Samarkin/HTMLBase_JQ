@@ -1,1 +1,3 @@
-alert('Привет');
+$(document).ready(function() {
+  // jQuery code
+});
